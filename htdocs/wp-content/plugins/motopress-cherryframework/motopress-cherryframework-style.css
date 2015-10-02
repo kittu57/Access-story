@@ -1,0 +1,12 @@
+#motopress-dialog-style-tab div[data-motopress-parameter="custom_class"] {
+    display: none;
+}
+
+div[data-motopress-loop-file="loop/loop-page.php"]:after,
+div[data-motopress-loop-file="loop/loop-page.php"]:before {
+    display: none;
+}
+
+#motopress-content-editor-leftbar .popover.clickover, #motopress-content-editor-leftbar:hover .popover.clickover {
+    max-width: none;
+}

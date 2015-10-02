@@ -1,0 +1,10 @@
+#optionsframework .group .section.section-info {
+	padding: 20px 18px 0;
+}
+#optionsframework .group .section.section-info p {
+	font-weight: bold;
+	margin: 0;
+}
+#optionsframework-wrap #optionsframework {
+	max-width: 930px;
+}
